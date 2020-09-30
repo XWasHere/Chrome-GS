@@ -1,3 +1,6 @@
 {
-
+	"name": "Chrome GK Implementation",
+	"version": "1.0 PRE",
+	"description": "Basically does the rich presence thing.",
+	"manifest_version": 2,
 }
